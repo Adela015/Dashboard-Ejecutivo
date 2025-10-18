@@ -1,7 +1,6 @@
 # ===== IMPORTACIÓN DE BIBLIOTECAS =====
 # Estas son las herramientas que necesitamos para que el programa funcione
 
-from re import template  # Esta línea no se usa en el código, probablemente quedó de pruebas anteriores
 import streamlit as st  # Streamlit: biblioteca para crear aplicaciones web interactivas
 import pandas as pd  # Pandas: biblioteca para trabajar con tablas de datos
 import plotly.express as px  # Plotly Express: biblioteca para crear gráficos interactivos de forma simple
